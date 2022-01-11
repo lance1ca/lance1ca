@@ -1,4 +1,9 @@
 <h1 align="center"> Lance Rogan </h1>
+<p align="center">
+<b>🌱 I’m currently learning:</b> Modelling of Discrete Optimization Problems, Medical Imaging and Imaging Informatics, Software Engineering, Data Analytics, and Project Management.</p>
+<p align="center">
+  <b>💬 Ask me about:</b> My programs and projects completed in my courses and my goals for future independent projects.
+  </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lance1ca&label=Profile%20views&color=0e75b6&style=flat" alt="lance1ca" /> </p>
 
 <p align="center"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/LR%20-%20Hiking.jpeg" alt="hiking" width="700" height="500" /></p>
@@ -16,10 +21,6 @@ Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lan
 Object Orientated Programming fundamentals. Design, implementation, and analysis of data structures. Advanced programming in the application of software engineering techniques, and the design and implementation of programs manipulating complex data structures. Linear programming problems and fundamentals, sensitivity analysis and the simplex algorithm. Formulation of real-world optimization problems through techniques such as linear programming, network flows, integer programming, and dynamic programming (solution by appropriate software). Medical Imaging and Imaging Informatics, Software Engineering, Data Analytics, and Project Management.
 
 </p>
-
-**🌱 I’m currently learning:** Modelling of Discrete Optimization Problems, Medical Imaging and Imaging Informatics, Software Engineering, Data Analytics, and Project Management
-
-**💬 Ask me about:** My programs and projects completed in my courses and my goals for future independent projects.
 
 <h3 align="left">Connect with me</h3>
 
