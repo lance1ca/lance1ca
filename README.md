@@ -1,23 +1,25 @@
 <h1 align="center"> Lance Rogan </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lance1ca&label=Profile%20views&color=0e75b6&style=flat" alt="lance1ca" /> </p>
 
 <p align="center"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/LR%20-%20Hiking.jpeg" alt="hiking" width="700" height="500" /></p>
 
 <h3>About me</h3>
-<p>I am</p>
-<br>
-<br>
+<p>
+  
+Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a fourth year Bachelor of Science student with a major in Mathematics and a minor in Computer Science and I am currently enrolled at UBC Okanagan and in the Universities Co-op education program. I am a very personable, detail orientated, active and driven individual who thrives in team environments and has significant leadership experience and training. I have a strong aptitude in mathematics and computer science techniques, and I am very eager to continue to transition my skills and knowledge into actionable results within the workplace. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lance1ca&label=Profile%20views&color=0e75b6&style=flat" alt="lance1ca" /> </p>
+</p>
 
-- 🔭 I’m currently working on **test**
+<h3>Recent Coursework</h3>
+<p>
+  
+Object Orientated Programming fundamentals. Design, implementation, and analysis of data structures. Advanced programming in the application of software engineering techniques, and the design and implementation of programs manipulating complex data structures. Linear programming problems and fundamentals, sensitivity analysis and the simplex algorithm. Formulation of real-world optimization problems through techniques such as linear programming, network flows, integer programming, and dynamic programming (solution by appropriate software). Medical Imaging and Imaging Informatics, Software Engineering, Data Analytics, and Project Management.
 
-- 🌱 I’m currently learning **test**
+</p>
 
-- 👯 I’m looking to collaborate on **test**
+**🌱 I’m currently learning:** Modelling of Discrete Optimization Problems, Medical Imaging and Imaging Informatics, Software Engineering, Data Analytics, and Project Management
 
-- 🤝 I’m looking for help with **test**
-
-- 💬 Ask me about **test**
+**💬 Ask me about:** My goals for future projects
 
 <h3 align="left">Connect with me</h3>
 
