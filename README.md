@@ -19,7 +19,7 @@ Object Orientated Programming fundamentals. Design, implementation, and analysis
 
 **🌱 I’m currently learning:** Modelling of Discrete Optimization Problems, Medical Imaging and Imaging Informatics, Software Engineering, Data Analytics, and Project Management
 
-**💬 Ask me about:** My goals for future projects
+**💬 Ask me about:** My programs and projects completed in my courses and my goals for future independent projects.
 
 <h3 align="left">Connect with me</h3>
 
