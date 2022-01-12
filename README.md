@@ -66,4 +66,4 @@ Some of the programs I have completed in my coursework laboratories include prog
 <b>Note:</b>
 <p>Some of this README.md was generated using the following tools, check them out!<br>
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator">Try out Rahul Jain's README.md generator</a> <br>
-<a href="https://github.com/arturssmirnovs/github-profile-readme-generator">Try out Arturs Smirnovs' README.md generator</a></p>
+<a href="https://github.com/arturssmirnovs/github-profile-readme-generator">Try out Arturs Smirnovs README.md generator</a></p>
