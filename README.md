@@ -61,3 +61,9 @@ Some of the programs I have completed in my coursework laboratories include prog
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lance1ca&show_icons=true&locale=en&layout=compact" alt="lance1ca" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lance1ca&show_icons=true&locale=en" alt="lance1ca" /></p>
+
+<br>
+<b>Note:</b>
+<p>Some of this README.md was using the following tools, check them out!<br>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator">Try out Rahul Jain's README.md generator</a> <br>
+<a href="https://github.com/arturssmirnovs/github-profile-readme-generator">Try out Arturs Smirnovs' README.md generator</a></p>
