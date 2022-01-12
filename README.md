@@ -11,7 +11,9 @@
 <h3>About me</h3>
 <p>
   
-Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a fourth year Bachelor of Science student with a major in Mathematics and a minor in Computer Science and I am currently enrolled at UBC Okanagan and in the Universities Co-op education program. I am a very personable, detail orientated, active and driven individual who thrives in team environments and has significant leadership experience and training. I have a strong aptitude in mathematics and computer science techniques, and I am very eager to continue to transition my skills and knowledge into actionable results within the workplace. 
+Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a fourth year Bachelor of Science student with a major in Mathematics and a minor in Computer Science and I am currently enrolled at UBC Okanagan and in the Universities Co-op education program. I am a very personable, detail orientated, active and driven individual who thrives in team environments and has significant leadership experience and training. I have a strong aptitude in mathematics and computer science techniques, and I am very eager to continue to transition my skills and knowledge into actionable results within the workplace.
+  <br>
+  ***Note:*** My strongest and most proficient programming language is ***Java***.
 
 </p>
 
@@ -19,6 +21,13 @@ Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lan
 <p>
   
 Object Orientated Programming fundamentals. Design, implementation, and analysis of data structures. Advanced programming in the application of software engineering techniques, and the design and implementation of programs manipulating complex data structures. Linear programming problems and fundamentals, sensitivity analysis and the simplex algorithm. Formulation of real-world optimization problems through techniques such as linear programming, network flows, integer programming, and dynamic programming (solution by appropriate software). Medical Imaging and Imaging Informatics, Software Engineering, Data Analytics, and Project Management.
+
+</p>
+
+<h3>Examples of Coursework Programs</h3>
+<p>
+  
+Some of the programs I have completed in my coursework laboratories include programs, activities/drawings, and/or methods involving: Lists, ArrayLists, LinkedLists, Doubly LinkedLists, Queues, Priority Queues and Hospital Triage Systems, Stacks and Queues, Trees, Binary Trees, Binary Search Trees, AVL Trees, Priority Queues and Heaps, Graphs, and Minimum Spanning Trees, Hashing and Sorting Algorithms. In addition, lab content has covered other topics like fundamentals to basic programming and Object Oriented Programming.
 
 </p>
 
@@ -41,6 +50,10 @@ Object Orientated Programming fundamentals. Design, implementation, and analysis
     <br>
   <a href="https://www.codecademy.com/profiles/lance1ca/certificates/6c152bd262967f8c941c9707ed636bda">Learn Python 3 Course</a>
   
+   <h3 align="left">Check out some of my repositories!</h3>
+  <a href="https://github.com/lance1ca/Password-Generators">Password Generators for Java, Python, and C#</a>
+  <br>
+  <a href="https://github.com/lance1ca/RockPaperScissorsApp">Android Studio Rock Paper Scissors App</a>
   
   
 </p>
