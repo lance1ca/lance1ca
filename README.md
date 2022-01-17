@@ -44,11 +44,11 @@ Some of the programs I have completed in my coursework laboratories include prog
 <a href="https://www.ibm.com/ca-en/products/ilog-cplex-optimization-studio" target="_blank" rel="noreferrer"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/IBM_ILOG_CPLEX.png" alt="IBM" width="40" height="40"/></a> <a href="https://www.maplesoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/Maple.png" alt="maple" width="40" height="40"/></a> <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/Eclipse.png" alt="eclipse" width="40" height="40"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/VS.png" alt="vs" width="40" height="40"/></a> 
   
   <h3 align="left">Codecademy Certificates</h3>
-  <a href="https://www.codecademy.com/profiles/lance1ca/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7">Learn HTML Course</a>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20HTML%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn HTML Course</a>
   <br>
-  <a href="https://www.codecademy.com/profiles/lance1ca/certificates/042a4e5884e3eb6ea1f2a12be6abb851">Learn SQL Course</a>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20SQL%20Course%20-%20Lance%20Rogan%20_%20Codecademy.pdf">Learn SQL Course</a>
     <br>
-  <a href="https://www.codecademy.com/profiles/lance1ca/certificates/6c152bd262967f8c941c9707ed636bda">Learn Python 3 Course</a>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn Python 3 Course</a>
   
    <h3 align="left">Check out some of my repositories!</h3>
   <a href="https://github.com/lance1ca/Password-Generators">Password Generators for Java, Python, and C#</a>
