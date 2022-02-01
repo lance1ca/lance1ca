@@ -1,6 +1,6 @@
 <h1 align="center"> Lance Rogan </h1>
 <p align="center">
-<b>🌱 I’m currently learning:</b> Modelling of Discrete Optimization Problems, Medical Imaging and Imaging Informatics, Software Engineering, Data Analytics, and Project Management.</p>
+<b>🌱 I’m currently learning:</b> Modelling of Discrete Optimization Problems, Software Engineering, Data Analytics, and Project Management.</p>
 <p align="center">
   <b>💬 Ask me about:</b> My programs and projects completed in my courses and my goals for future independent projects.
   </p>
@@ -20,14 +20,14 @@ Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lan
 <h3>Recent Coursework</h3>
 <p>
   
-Object Orientated Programming fundamentals. Design, implementation, and analysis of data structures. Advanced programming in the application of software engineering techniques, and the design and implementation of programs manipulating complex data structures. Linear programming problems and fundamentals, sensitivity analysis and the simplex algorithm. Formulation of real-world optimization problems through techniques such as linear programming, network flows, integer programming, and dynamic programming (solution by appropriate software). Medical Imaging and Imaging Informatics, Software Engineering, Data Analytics, and Project Management.
+Object Orientated Programming fundamentals. Design, implementation, and analysis of data structures. Advanced programming in the application of software engineering techniques, and the design and implementation of programs manipulating complex data structures. Linear programming problems and fundamentals, sensitivity analysis and the simplex algorithm. Formulation of real-world optimization problems through techniques such as linear programming, network flows, integer programming, and dynamic programming (solution by appropriate software). Software Engineering, Data Analytics, and Project Management.
 
 </p>
 
 <h3>Examples of Coursework Programs</h3>
 <p>
   
-Some of the programs I have completed in my coursework laboratories include programs, activities/drawings, and/or methods involving: Lists, ArrayLists, LinkedLists, Doubly LinkedLists, Queues, Priority Queues and Hospital Triage Systems, Stacks and Queues, Trees, Binary Trees, Binary Search Trees, AVL Trees, Priority Queues and Heaps, Graphs, and Minimum Spanning Trees, Hashing and Sorting Algorithms. In addition, lab content has covered other topics like fundamentals to basic programming and Object Oriented Programming.
+Some of the programs I have completed in my coursework laboratories include programs, activities/drawings, and/or methods involving: Lists, ArrayLists, LinkedLists, Doubly LinkedLists, Queues, Priority Queues and Hospital Triage Systems, Stacks and Queues, Trees, Binary Trees, Binary Search Trees, AVL Trees, Priority Queues and Heaps, Graphs, and Minimum Spanning Trees, Hashing and Sorting Algorithms. In addition, lab content has covered other topics like fundamentals to basic programming and Object Oriented Programming. Please ask me about the programs I have made in my coursework, I would be happy to talk about it!
 
 </p>
 
