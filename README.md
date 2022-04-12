@@ -58,6 +58,8 @@ Some of the programs I have completed in my coursework laboratories include prog
   <h3 align="left">Check out my Groups Ryan Reynolds Chat-Bot</h3>
  <a href="https://github.com/Cosc310Group10/ChatBot">Ryan Reynolds Chat Bot</a>
   
+  <h3 align="left">Check out my Individual Project Expansion for the Ryan Reynolds Chat-Bot</h3>
+ <a href="https://github.com/lance1ca/Chat-Bot">Ryan Reynolds Chat Bot</a>
   
   
 </p>
