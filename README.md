@@ -20,7 +20,7 @@ Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lan
 <h3>Recent Coursework</h3>
 <p>
   
-Object Orientated Programming fundamentals. Design, implementation, and analysis of data structures. Advanced programming in the application of software engineering techniques, and the design and implementation of programs manipulating complex data structures. Linear programming problems and fundamentals, sensitivity analysis and the simplex algorithm. Formulation of real-world optimization problems through techniques such as linear programming, network flows, integer programming, and dynamic programming (solution by appropriate software). Software Engineering, Data Analytics, and Project Management.
+Object Oriented Programming fundamentals. Design, implementation, and analysis of data structures. Advanced programming in the application of software engineering techniques, and the design and implementation of programs manipulating complex data structures. Linear programming problems and fundamentals, sensitivity analysis and the simplex algorithm. Formulation of real-world optimization problems through techniques such as linear programming, network flows, integer programming, and dynamic programming (solution by appropriate software). Software Engineering, Data Analytics, and Project Management.
 
 </p>
 
