@@ -1,7 +1,7 @@
 <h1 align="center"> Lance Rogan </h1>
 <h2 align="center"> Software Engineering Research Assistant at Healthcare Systems R&A</h2>
 <p align="center">
-<b>🌱 Current work:</b> I am currently completing my second Co-op employment opportunity as a <b>Software Engineering Research Assistant</b> at Healthcare Systems R&A. I have been gaining real world work experience with developing professional web applications from the front end and back end with synchronous and asynchronous JavaScript, EJS, NodeJS, ExpressJS, HTML, CSS, AWS, pgAdmin, and PostgresSQL. </p>
+<b>🌱 Current work:</b> I am currently completing my second Co-op employment opportunity as a <b>Software Engineering Research Assistant</b> at Healthcare Systems R&A. I have been gaining real world work experience with database design and implementation, as well as developing professional web applications from the front end and back end with synchronous and asynchronous JavaScript, EJS, NodeJS, ExpressJS, HTML, CSS, AWS, pgAdmin, and PostgresSQL. </p>
 <p align="center">
   <b>💬 Ask me about:</b> My personal projects, group projects, projects completed in my courses, and my goals for future applications.
   </p>
@@ -65,11 +65,34 @@ Some of the programs I have completed in my coursework laboratories include prog
 <a href="https://www.ibm.com/ca-en/products/ilog-cplex-optimization-studio" target="_blank" rel="noreferrer"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/IBM_ILOG_CPLEX.png" alt="IBM" width="40" height="40"/></a> <a href="https://www.maplesoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/Maple.png" alt="maple" width="40" height="40"/></a> <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/Eclipse.png" alt="eclipse" width="40" height="40"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/VS.png" alt="vs" width="40" height="40"/></a> 
   
   <h3 align="left">Codecademy Certificates</h3>
-  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20HTML%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn HTML Course</a>
-  <br>
+
   <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20SQL%20Course%20-%20Lance%20Rogan%20_%20Codecademy.pdf">Learn SQL Course</a>
     <br>
   <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn Python 3 Course</a>
+  
+
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20HTML%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn HTML Course</a>
+  <br>
+  
+   <br>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn CSS Course</a>
+  
+ <br>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn JavaScript Course</a>
+  
+   <br>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn Asynchronous JavaScript Course</a>
+  
+   <br>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn Node.js Course</a>
+  
+   <br>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn Express Course</a>
+  
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20HTML%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Design Databases with PostgreSQL Skill Path</a>
+  <br>
+  
+  
   
    <h3 align="left">Check out some of my repositories!</h3>
   <a href="https://github.com/lance1ca/Password-Generators">Password Generators for Java, Python, and C#</a>
