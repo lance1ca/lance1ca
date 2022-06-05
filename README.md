@@ -1,7 +1,7 @@
 <h1 align="center"> Lance Rogan </h1>
-<h2 align="center"> Software Engineering Research Assistant at Healthcare Systems R&A</h2>
+<h2 align="center"> Software Engineering Research Assistant at Healthcare Systems R&A Inc.</h2>
 <p align="center">
-<b>🌱 Current work:</b> I am currently completing my second Co-op employment opportunity as a <b>Software Engineering Research Assistant</b> at Healthcare Systems R&A. I have been gaining real world work experience with database design and implementation, as well as developing professional web applications from the front end and back end with synchronous and asynchronous JavaScript, EJS, NodeJS, ExpressJS, HTML, CSS, AWS, pgAdmin, and PostgresSQL. </p>
+<b>🌱 Current work:</b> I am currently completing my second Co-op employment opportunity as a <b>Software Engineering Research Assistant</b> at Healthcare Systems R&A Inc. I have been gaining real world work experience with database design and implementation, as well as developing professional web applications from the front end and back end with synchronous and asynchronous JavaScript, EJS, NodeJS, ExpressJS, HTML, CSS, AWS, pgAdmin, and PostgresSQL. </p>
 <p align="center">
   <b>💬 Ask me about:</b> My personal projects, group projects, projects completed in my courses, and my goals for future applications.
   </p>
@@ -12,7 +12,7 @@
 <h3>About me</h3>
 <p>
   
-Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a Fifth year Bachelor of Science student with a major in Mathematics and a minor in Computer Science at UBC Okanagan. I am also enrolled in the universities Co-op education program, and I am currently completing my second Co-op employment opportunity as a Software Engineering Research Assistant at Healthcare Systems R&A.
+Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a Fifth year Bachelor of Science student with a major in Mathematics and a minor in Computer Science at UBC Okanagan. I am also enrolled in the universities Co-op education program, and I am currently completing my second Co-op employment opportunity as a Software Engineering Research Assistant at Healthcare Systems R&A Inc.
 
 I am extremely passionate about designing, developing, and implementing high quality software and web applications, and optimizing solutions to complex business problems. I am a very self-motivated, enthusiastic, organized, and positive individual with very strong interpersonal skills, written and verbal communication, leadership, and time management. I can problem solve and troubleshoot, adapt to changing work environments, and develop and maintain professional business relationships with clients and co-workers.
 
