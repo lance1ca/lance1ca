@@ -1,6 +1,6 @@
 <h1 align="center"> Lance Rogan </h1>
 <p align="center">
-<b>🌱 Current work:</b> I am currently completing my second Co-op employment opportunity as a **Software Engineering Research Assistant** at Healthcare Systems R&A. I have been gaining real world work experience with developing professional web applications from the front end and back end with synchronous and asynchronous JavaScript, NodeJS, ExpressJS, HTML, CSS, AWS, pgAdmin, and PostgresSQL. </p>
+<b>🌱 Current work:</b> I am currently completing my second Co-op employment opportunity as a <b>Software Engineering Research Assistant</b> at Healthcare Systems R&A. I have been gaining real world work experience with developing professional web applications from the front end and back end with synchronous and asynchronous JavaScript, EJS, NodeJS, ExpressJS, HTML, CSS, AWS, pgAdmin, and PostgresSQL. </p>
 <p align="center">
   <b>💬 Ask me about:</b> My personal projects, group projects, projects completed in my courses, and my goals for future applications.
   </p>
@@ -17,19 +17,19 @@ I am extremely passionate about designing, developing, and implementing high qua
 
 Through my previous course work and various work experiences, I have gained many technical skills, transferable skills, and certificates which can be seen below.
 
-**Programming Languages: **
+<b>Programming Languages:</b>
 Java, Python, HTML, CSS, SQL, PostgresSQL, JavaScript, Asynchronous JavaScript, NodeJS, and ExpressJS.
 
-**Software: **
+<b>Software: </b>
 Proficient with IDE's like Eclipse/VS Code and their debugging tools, Excel and other Microsoft Suites, Git and GitHub, R Studio, Tableau, Maple, Android Studio, Anaconda/Spyder, IBM ILOG CPLEX Optimization Studio, pgAdmin, etc.
 
-**Learning Technologies: **
+<b>Learning Technologies: </b>
 Experienced with learning technology software such as Canvas, Camtasia, iClicker Cloud, iPeer, Kaltura, Piazza, Snagit, ServiceNow Ticketing System, etc.
 
-**Brief Overview of Completed Courses: **
+<b>Brief Overview of Completed Courses: </b>
 Object Oriented Programming, Data Structures, Discrete Structures, Linear Programming/Optimization, Data Analytics, Project Management, Software Engineering, Modelling of Discrete Optimization Problems, Differential equations, Partial Differential Equations, Financial Economics, and Probability.
 
-**Certificates: **
+<b>Certificates: </b>
 Codecademy Learn SQL Course, Learn Python 3 Course, Learn HTML Course, Learn Node.js Course, Learn JavaScript Course, Learn Express Course, Learn CSS Course, Learn Asynchronous JavaScript Course, Design Databases With PostgreSQL Skill Path. 
 
 LinkedIn Learning Certificate for "Learning Cloud Computing: Core Concepts" by David Linthicum.
