@@ -93,6 +93,11 @@ Some of the programs I have completed in my coursework laboratories include prog
   <a href="https://github.com/lance1ca/Password-Generators">Password Generators for Java, Python, and C#</a>
   <br>
   <a href="https://github.com/lance1ca/RockPaperScissorsApp">Android Studio Rock Paper Scissors App</a>
+  <br>
+  <a href="https://github.com/lance1ca/ClientLoginWebApp">User Register and Login Web Application </a>
+  <br>
+  <a href="https://github.com/lance1ca/UserLoginTutorial">Basic Version of a User Login and Register Web Application</a>
+  
  
   <h3 align="left">Check out my Groups Ryan Reynolds Chat-Bot</h3>
  <a href="https://github.com/Cosc310Group10/ChatBot">Ryan Reynolds Chat Bot</a>
