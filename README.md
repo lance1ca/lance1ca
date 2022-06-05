@@ -1,8 +1,8 @@
 <h1 align="center"> Lance Rogan </h1>
 <p align="center">
-<b>🌱 I’m currently learning:</b> Modelling of Discrete Optimization Problems, Software Engineering, Data Analytics, and Project Management.</p>
+<b>🌱 Current work:</b> I am currently completing my second Co-op employment opportunity as a **Software Engineering Research Assistant** at Healthcare Systems R&A. I have been gaining real world work experience with developing professional web applications from the front end and back end with synchronous and asynchronous JavaScript, NodeJS, ExpressJS, HTML, CSS, AWS, pgAdmin, and PostgresSQL. </p>
 <p align="center">
-  <b>💬 Ask me about:</b> My programs and projects completed in my courses and my goals for future independent projects.
+  <b>💬 Ask me about:</b> My personal projects, group projects, projects completed in my courses, and my goals for future applications.
   </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lance1ca&label=Profile%20views&color=0e75b6&style=flat" alt="lance1ca" /> </p>
 
@@ -11,11 +11,31 @@
 <h3>About me</h3>
 <p>
   
-Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a fourth year Bachelor of Science student with a major in Mathematics and a minor in Computer Science and I am currently enrolled at UBC Okanagan and in the Universities Co-op education program. I am a very personable, detail orientated, active and driven individual who thrives in team environments and has significant leadership experience and training. I have a strong aptitude in mathematics and computer science techniques, and I am very eager to continue to transition my skills and knowledge into actionable results within the workplace.
-  <br>
-  ***Note:*** My strongest and most proficient programming language is ***Java***.
+Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a Fifth year Bachelor of Science student with a major in Mathematics and a minor in Computer Science at UBC Okanagan. I am also enrolled in the universities Co-op education program, and I am currently completing my second Co-op employment opportunity as a Software Engineering Research Assistant at Healthcare Systems R&A.
+
+I am extremely passionate about designing, developing, and implementing high quality software and web applications, and optimizing solutions to complex business problems. I am a very self-motivated, enthusiastic, organized, and positive individual with very strong interpersonal skills, written and verbal communication, leadership, and time management. I can problem solve and troubleshoot, adapt to changing work environments, and develop and maintain professional business relationships with clients and co-workers.
+
+Through my previous course work and various work experiences, I have gained many technical skills, transferable skills, and certificates which can be seen below.
+
+**Programming Languages: **
+Java, Python, HTML, CSS, SQL, PostgresSQL, JavaScript, Asynchronous JavaScript, NodeJS, and ExpressJS.
+
+**Software: **
+Proficient with IDE's like Eclipse/VS Code and their debugging tools, Excel and other Microsoft Suites, Git and GitHub, R Studio, Tableau, Maple, Android Studio, Anaconda/Spyder, IBM ILOG CPLEX Optimization Studio, pgAdmin, etc.
+
+**Learning Technologies: **
+Experienced with learning technology software such as Canvas, Camtasia, iClicker Cloud, iPeer, Kaltura, Piazza, Snagit, ServiceNow Ticketing System, etc.
+
+**Brief Overview of Completed Courses: **
+Object Oriented Programming, Data Structures, Discrete Structures, Linear Programming/Optimization, Data Analytics, Project Management, Software Engineering, Modelling of Discrete Optimization Problems, Differential equations, Partial Differential Equations, Financial Economics, and Probability.
+
+**Certificates: **
+Codecademy Learn SQL Course, Learn Python 3 Course, Learn HTML Course, Learn Node.js Course, Learn JavaScript Course, Learn Express Course, Learn CSS Course, Learn Asynchronous JavaScript Course, Design Databases With PostgreSQL Skill Path. 
+
+LinkedIn Learning Certificate for "Learning Cloud Computing: Core Concepts" by David Linthicum.
 
 </p>
+
 
 <h3>Recent Coursework</h3>
 <p>
