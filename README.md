@@ -97,6 +97,8 @@ Some of the programs I have completed in my coursework laboratories include prog
   <a href="https://github.com/lance1ca/ClientLoginWebApp">User Register and Login Web Application </a>
   <br>
   <a href="https://github.com/lance1ca/UserLoginTutorial">Basic Version of a User Login and Register Web Application</a>
+   <br>
+  <a href="https://github.com/lance1ca/KivyPongGame">Kivy Pong Game</a>
   
  
   <h3 align="left">Check out my Groups Ryan Reynolds Chat-Bot</h3>
