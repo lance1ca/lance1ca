@@ -84,6 +84,7 @@ Some of the programs I have completed in my coursework laboratories include prog
   <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20NodeJS%20Course%20Certificate.pdf">Learn Node.js Course</a>
    <br>
   <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20ExpressJS%20Course%20Certificate.pdf">Learn Express Course</a>
+  <br>
   <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Design%20Databases%20With%20PostgreSQL%20_%20Codecademy.pdf">Design Databases with PostgreSQL Skill Path</a>
   <br>
   
