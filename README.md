@@ -74,22 +74,22 @@ Some of the programs I have completed in my coursework laboratories include prog
   <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20HTML%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn HTML Course</a>
   <br>
   
-   <br>
-  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn CSS Course</a>
+
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20CSS%20Course%20Certificate.pdf">Learn CSS Course</a>
   
  <br>
-  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn JavaScript Course</a>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20JavaScript%20Course%20Certificate.pdf">Learn JavaScript Course</a>
   
    <br>
-  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn Asynchronous JavaScript Course</a>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Asynchronous%20JavaScriptCourse%20Certificate.pdf">Learn Asynchronous JavaScript Course</a>
   
    <br>
-  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn Node.js Course</a>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20NodeJS%20Course%20Certificate.pdf">Learn Node.js Course</a>
   
    <br>
-  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20Python%203%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Learn Express Course</a>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20ExpressJS%20Course%20Certificate.pdf">Learn Express Course</a>
   
-  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Learn%20HTML%20-%20Lance%20Rogan%20-%20Codecademy.pdf">Design Databases with PostgreSQL Skill Path</a>
+  <a href="https://github.com/lance1ca/lance1ca/blob/main/images/Design%20Databases%20With%20PostgreSQL%20_%20Codecademy.pdf">Design Databases with PostgreSQL Skill Path</a>
   <br>
   
   
