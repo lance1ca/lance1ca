@@ -1,4 +1,5 @@
 <h1 align="center"> Lance Rogan </h1>
+<h2 align="center"> Software Engineering Research Assistant at Healthcare Systems R&A</h2>
 <p align="center">
 <b>🌱 Current work:</b> I am currently completing my second Co-op employment opportunity as a <b>Software Engineering Research Assistant</b> at Healthcare Systems R&A. I have been gaining real world work experience with developing professional web applications from the front end and back end with synchronous and asynchronous JavaScript, EJS, NodeJS, ExpressJS, HTML, CSS, AWS, pgAdmin, and PostgresSQL. </p>
 <p align="center">
