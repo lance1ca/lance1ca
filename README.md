@@ -31,7 +31,7 @@ Experienced with learning technology software such as Canvas, Camtasia, iClicker
 Object Oriented Programming, Data Structures, Discrete Structures, Linear Programming/Optimization, Data Analytics, Project Management, Software Engineering, Modelling of Discrete Optimization Problems, Differential equations, Partial Differential Equations, Financial Economics, and Probability.
 
 <b>Certificates: </b>
-Codecademy Learn SQL Course, Learn Python 3 Course, Learn HTML Course, Learn Node.js Course, Learn JavaScript Course, Learn Express Course, Learn CSS Course, Learn Asynchronous JavaScript Course, Design Databases With PostgreSQL Skill Path. 
+Codecademy Codecademy Learn SQL Course, Learn Python 3 Course, Learn HTML Course, Learn Node.js Course, Learn JavaScript Course, Learn Express Course, Learn CSS Course, Learn Asynchronous JavaScript Course, Learn React Native Course, Design Databases With PostgreSQL Skill Path.
 
 LinkedIn Learning Certificate for "Learning Cloud Computing: Core Concepts" by David Linthicum.
 
