@@ -1,7 +1,5 @@
 <h1 align="center"> Lance Rogan </h1>
-<h2 align="center">Co-op Software Development Engineer in Test at Global Relay</h2>
-<p align="center">
-<b>🌱 Current work:</b> I am currently completing my third Co-op employment opportunity as a <b>Co-op Software Development Engineer in Test</b> at Global Relay.</p>
+
 <p align="center">
   <b>💬 Ask me about:</b> My personal projects, group projects, projects completed in my courses, and my goals for future applications.
   </p>
