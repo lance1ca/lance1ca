@@ -1,7 +1,7 @@
 <h1 align="center"> Lance Rogan </h1>
 <h2 align="center">Co-op Software Development Engineer in Test at Global Relay</h2>
 <p align="center">
-<b>🌱 Current work:</b> I am currently completing my second Co-op employment opportunity as a <b>Software Engineering Research Assistant</b> at Healthcare Systems R&A Inc. I have been gaining real world work experience with database design and implementation, assisting UX/UI with some website tasks, as well as developing a professional web application from scratch on the front end and back end with synchronous and asynchronous JavaScript, EJS, NodeJS, ExpressJS, HTML, CSS, AWS RDS, EC2, API Gateway, and Lambda, and PostgresSQL. </p>
+<b>🌱 Current work:</b> I am currently completing my third Co-op employment opportunity as a <b>Co-op Software Development Engineer in Test</b> at Global Relay.</p>
 <p align="center">
   <b>💬 Ask me about:</b> My personal projects, group projects, projects completed in my courses, and my goals for future applications.
   </p>
