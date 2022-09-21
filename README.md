@@ -10,7 +10,7 @@
 <h3>About me</h3>
 <p>
   
-Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a Fifth year Bachelor of Science Co-op student with a major in Mathematics and a minor in Computer Science at UBC Okanagan. I am currently completing my second Co-op employment opportunity as a Software Engineering Research Assistant at Healthcare Systems R&A Inc.
+Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a Fifth year Bachelor of Science Co-op student with a major in Mathematics and a minor in Computer Science at UBC Okanagan.
 
 I am extremely passionate about designing, developing, and implementing high quality software and web applications, and optimizing solutions to complex business problems. I am a very self-motivated, enthusiastic, organized, and positive individual with very strong interpersonal skills, written and verbal communication, leadership, and time management. I can problem solve and troubleshoot, adapt to changing work environments, and develop and maintain professional business relationships with clients and co-workers.
 
