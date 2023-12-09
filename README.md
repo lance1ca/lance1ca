@@ -10,11 +10,11 @@
 <h3>About me</h3>
 <p>
   
-Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a Fifth year Bachelor of Science Co-op student with a major in Mathematics and a minor in Computer Science at UBC Okanagan.
+Hello! 😃 Nice to meet you and I hope you are doing well today! My name is Lance Rogan and I am a Bachelor of Science graduate from UBC Okanagan with a major in mathematics and a minor in Computer Science. Currently, I am working as a Software Developer in Test at Global Relay Communications Inc!
 
-I am extremely passionate about designing, developing, testing, and implementing high quality software and web applications, and optimizing solutions to complex business problems. I am a very self-motivated, enthusiastic, organized, and positive individual with very strong interpersonal skills, written and verbal communication, leadership, and time management. I can problem solve and troubleshoot, adapt to changing work environments, and develop and maintain professional business relationships with clients and co-workers.
+I am extremely passionate about designing, developing, testing, and implementing high quality software and web applications, and optimizing solutions to complex business problems that will make a difference in the world. I am a very self-motivated, enthusiastic, organized, and positive individual with very strong interpersonal skills, written and verbal communication, leadership, and time management. I can problem solve and troubleshoot, adapt to changing work environments, and develop and maintain professional business relationships with clients and co-workers.
 
-Through my previous course work and various work experiences, I have gained many technical skills, transferable skills, and certificates which can be seen below.
+Through my previous course work and various work experiences, I have gained many technical skills, transferable skills, and certificates which can be seen below. I also have real world experience optimizing solutions to business problems using CPLEX and discrete optimization techniques.
 
 <b>Programming Languages:</b>
 Java, Python, HTML, CSS, SQL, PostgresSQL, JavaScript, Asynchronous JavaScript, NodeJS, and ExpressJS.
@@ -26,7 +26,7 @@ Windows and Linux OS, IntelliJ / VS Code / Eclipse and their debugging tools, Ex
 Experienced with learning technology software such as Canvas, Camtasia, iClicker Cloud, iPeer, Kaltura, Piazza, Snagit, ServiceNow Ticketing System, etc.
 
 <b>Brief Overview of Completed Courses: </b>
-Object Oriented Programming, Data Structures, Discrete Structures, Linear Programming/Optimization, Data Analytics, Project Management, Software Engineering, Modelling of Discrete Optimization Problems, Differential equations, Partial Differential Equations, Financial Economics, and Probability.
+Object Oriented Programming, Data Structures, Discrete Structures, Linear Programming/Optimization, Data Analytics, Project Management, Optimization in Graphs and Networks, Introduction to Operating Systems, Analysis of Algorithms, Software Engineering, Modelling of Discrete Optimization Problems, Differential equations, Partial Differential Equations, Financial Economics, and Probability.
 
 <b>Certificates: </b>
 Codecademy Codecademy Learn SQL Course, Learn Python 3 Course, Learn HTML Course, Learn Node.js Course, Learn JavaScript Course, Learn Express Course, Learn CSS Course, Learn Asynchronous JavaScript Course, Learn React Native Course, Design Databases With PostgreSQL Skill Path.
