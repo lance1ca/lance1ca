@@ -5,7 +5,7 @@
   </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lance1ca&label=Profile%20views&color=0e75b6&style=flat" alt="lance1ca" /> </p>
 
-<p align="center"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/LR%20-%20Hiking.jpeg" alt="hiking" width="700" height="500" /></p>
+<p align="center"><img src="https://github.com/lance1ca/lance1ca/blob/main/images/hiking.jpg" alt="hiking" width="700" height="500" /></p>
 
 <h3>About me</h3>
 <p>
